@@ -32,76 +32,68 @@ This repository serves as my personal Git and GitHub laboratory where I practice
 ### Branch Management
 
 - Creating branches
--
 - Switching branches
--
 - Merging branches
--
 - Resolving merge conflicts
--
- 
+
 ### GitHub Workflow
--
-* Creating repositories
--
-* Managing Issues
--
-* Pull Requests
--
-* Code Reviews
--
-* Project Boards
--
- 
+
+- Creating repositories
+- Managing Issues
+- Pull Requests
+- Code Reviews
+- Project Boards
+
 ### Advanced Git
--
-* Rebase
--
-* Cherry-pick
--
-* Stash
--
-* Reset
--
-* Revert
--
-* Interactive Rebase
+- Rebase
+- Cherry-pick
+- Stash
+- Reset
+- Revert
+- Interactive Rebase
 
 ---
 
-## 🗂 Repository Structure```text
+## 🗂 Repository Structure
+
+```text
 git-learn/
-│
 ├── notes/
 │   ├── git-basics.md
 │   ├── branching.md
 │   ├── pull-requests.md
-│   └── advanced-git.md 
+│   └── advanced-git.md
 │
 ├── exercises/
 │   ├── branch-practice/
 │   ├── merge-conflicts/
 │   └── workflow-examples/
 │
-└── README.md``` 
----
+└── README.md
+```
+
 ## 📝 Learning Log
 
 ### Completed
 
-* [x] Git installation
-* [x] Repository initialization
-* [x] Commit workflow
-* [x] Branch creation
-* [x] GitHub repository management
-### In Progress
+- [x] Git installation
+- [x] Repository initialization
+- [x] Commit workflow
+- [x] Branch creation
+- [x] GitHub repository management
+- [x] Pull Requests
+- [x] Code Reviews
+- [x] Merge Conflict Resolution
+- [x] GitHub Actions
 
-* [ ] Pull Requests
-* [ ] Code Reviews
-* [ ] Merge Conflict Resolution
-* [ ] GitHub Actions
-### Upcoming
-4c5 Open Source Contributions	[ ] CI/CD Pipelines	[ ] Advanced Git Workflows---	## 🔥 Example Commands---	### Create Repository```bash
+### In Progress
+- [ ]Open Source Contributions	
+- [ ] CI/CD Pipelines
+- [ ] Advanced Git Workflows
+---	
+## 🔥 Example Commands	
+### Create Repository
+```bash
 git init```---	### Stage Changes```bash
 git add .```---	### Commit Changes```bash
 git commit -m "feat: add git basics notes"```---	### Create Branch```bash
